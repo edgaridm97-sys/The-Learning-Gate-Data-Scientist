@@ -9,11 +9,12 @@ Este repositorio contiene los datos y notebooks del **Reto del módulo 1: Visual
 
 ## Datasets
 - `Happiness_report.csv`  
-  Raw link (pégalo aquí cuando lo generes):  
+  Raw link:  
   https://raw.githubusercontent.com/edgaridm97-sys/The-Learning-Gate-Data-Scientist/refs/heads/main/data/Happiness_report.csv
 
 -`Metadata.csv`
-
+  Raw link:  
+  https://raw.githubusercontent.com/edgaridm97-sys/The-Learning-Gate-Data-Scientist/refs/heads/main/data/Metadata.csv
 
 ## Notas
 - Los datos están en la carpeta `data/`.
